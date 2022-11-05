@@ -1,4 +1,4 @@
-# Reddit Ruby Bot
+# Reddit Rugby Bot
 
 This app was created for the [r/rugbyunion](https://reddit.com/r/rugbyunion) community, a community dedicated to discussion about rugby, to automatically create match threads for upcoming Super Rugby games
 
